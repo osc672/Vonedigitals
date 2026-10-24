@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Play>https://ia7mrz92.us-east.insforge.app/api/storage/buckets/voice/objects/telugu_coaching_intro.mp3</Play>
+  <Wait length="2"/>
+  <Speak voice="WOMAN" language="te-IN">మా అడ్మిషన్ కౌన్సెలర్ మిమ్మల్ని త్వరలోనే సంప్రదిస్తారు. ధన్యవాదాలు!</Speak>
+  <Hangup/>
+</Response>
